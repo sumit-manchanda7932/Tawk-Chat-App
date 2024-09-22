@@ -1,6 +1,6 @@
 ## IBY-Project Real-time-chat-app
 
-This real-time chat application utilizes the MERN stack with MongoDB for flexible data storage. It offers one-to-one and group chatting, real-time typing status, and interaction with the AI chatbot(Mioko). The tech stack includes ReactJS for the client, Express.js for the server, socket.io for real-time communication, and JWT for authentication.
+This real-time chat application utilizes the MERN stack with MongoDB for flexible data storage. It offers one-to-one and group chatting. The tech stack includes ReactJS for the client, Express.js for the server, socket.io for real-time communication, and JWT for authentication.
 
 - Visit <https://tawk-chat-app.onrender.com>
 - System-design-doc <https://docs.google.com/document/d/1oqwkeZms2amuqK1ovV7Qcau_xcQrNNZ-6xqWd_F-Y68/edit?usp=sharing>
