@@ -17,7 +17,7 @@ import {IoCall} from 'react-icons/io5';
 
 // for socket.io
 import io from "socket.io-client";
-const ENDPOINT = process.env.REACT_APP_API_ENDPOINT;
+const ENDPOINT = "https://tawk-chat-app.onrender.com";
 axios.defaults.baseURL = ENDPOINT;
 var socket, selectedChatCompare;
 
